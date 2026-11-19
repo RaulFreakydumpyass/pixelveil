@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PixelVeil</string>
+    <string name="tile_label">Pixels off</string>
+    <string name="acc_desc">Used only to draw the pixel pattern above the status bar and navigation bar. PixelVeil does not read or record anything on your screen.</string>
+</resources>
